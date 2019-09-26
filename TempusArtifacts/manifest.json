@@ -7,6 +7,22 @@
         "461": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/461.zip",
             "Version": "461"
+        },
+        "451": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/451.zip",
+            "Version": "451"
+        },
+        "444": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/444.zip",
+            "Version": "444"
+        },
+        "432": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/432.zip",
+            "Version": "432"
+        },
+        "430": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/430.zip",
+            "Version": "430"
         }
     }
 }
