@@ -1,5 +1,9 @@
 {
     "Artifacts": {
+        "471Ex": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/471Ex.zip",
+            "Version": "471Ex"
+        },
         "47001Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/47001Ex.zip",
             "Version": "47001Ex"
