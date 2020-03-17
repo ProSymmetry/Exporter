@@ -39,6 +39,10 @@
         "430": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/430.zip",
             "Version": "430"
+        },
+        "Extensions 471": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/471.zip",
+            "Version": "471 Extensions"
         }
     }
 }
