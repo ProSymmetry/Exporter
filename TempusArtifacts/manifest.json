@@ -43,6 +43,10 @@
         "Extensions 471": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/471.zip",
             "Version": "Tempus 4.7.1 Server Extensions"
+        },
+        "Extensions 501": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/501.zip",
+            "Version": "Tempus 5.0.1 Server Extensions"
         }
     }
 }
