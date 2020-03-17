@@ -2,47 +2,47 @@
     "Artifacts": {
         "471Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/471Ex.zip",
-            "Version": "471Ex"
+            "Version": "Tempus 4.7.1 With Client Extensions"
         },
         "47001Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/47001Ex.zip",
-            "Version": "47001Ex"
+            "Version": "Tempus 4.7.0.1 With Client Extensions"
         },
         "470Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/470Ex.zip",
-            "Version": "470Ex"
+            "Version": "Tempus 4.7.0 With Client Extensions"
         },
         "462Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/462Ex.zip",
-            "Version": "462Ex"
+            "Version": "Tempus 4.6.2 With Client Extensions"
         },
         "462": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/462.zip",
-            "Version": "462"
+            "Version": "Tempus 4.6.2"
         },
         "461": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/461.zip",
-            "Version": "461"
+            "Version": "Tempus 4.6.1"
         },
         "451": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/451.zip",
-            "Version": "451"
+            "Version": "Tempus 4.5.1"
         },
         "444": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/444.zip",
-            "Version": "444"
+            "Version": "Tempus 4.4.4"
         },
         "432": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/432.zip",
-            "Version": "432"
+            "Version": "Tempus 4.3.2"
         },
         "430": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/430.zip",
-            "Version": "430"
+            "Version": "Tempus 4.3.0"
         },
         "Extensions 471": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/471.zip",
-            "Version": "471 Extensions"
+            "Version": "Tempus 4.7.1 Server Extensions"
         }
     }
 }
