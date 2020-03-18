@@ -7,7 +7,7 @@
             "Description": "Tempus assemblies for use with Exporter. This build includes support for server extensions.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "47001Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/47001Ex.zip",
@@ -16,7 +16,7 @@
             "Description": "Tempus assemblies for use with Exporter. This build includes support for server extensions.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "470Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/470Ex.zip",
@@ -25,7 +25,7 @@
             "Description": "Tempus assemblies for use with Exporter. This build includes support for server extensions.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "462Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/462Ex.zip",
@@ -34,7 +34,7 @@
             "Description": "Tempus assemblies for use with Exporter. This build includes support for server extensions.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "462": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/462.zip",
@@ -43,7 +43,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "461": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/461.zip",
@@ -52,7 +52,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "451": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/451.zip",
@@ -61,7 +61,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "444": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/444.zip",
@@ -70,7 +70,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "432": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/432.zip",
@@ -79,7 +79,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "430": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/430.zip",
@@ -88,7 +88,7 @@
             "Description": "Tempus assemblies for use with Exporter.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Tempus"
+            "Category": "Tempus"
         },
         "Extensions 471": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/471.zip",
@@ -97,7 +97,7 @@
             "Description": "Server extensions for Tempus Resource. This is to be deployed via the configuration tool.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Server Extensions"
+            "Category": "Server Extensions"
         },
         "Extensions 501": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/501.zip",
@@ -106,7 +106,7 @@
             "Description": "Server extensions for Tempus Resource. This is to be deployed via the configuration tool.",
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
-            "Catgeory": "Server Extensions"
+            "Category": "Server Extensions"
         }
     }
 }
