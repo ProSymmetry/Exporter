@@ -107,6 +107,17 @@
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Server Extensions"
+        },
+        "Sheets1000": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/Sheets/1.0.0.0.zip",
+            "Version": "1.0.0.0",
+            "Name": "Tempus Sheets Module 1.0.0.0",
+            "Description": "Module that adds support for exporting sheets from Tempus.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Modules"
         }
     }
 }
+
+
