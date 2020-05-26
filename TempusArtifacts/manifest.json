@@ -145,6 +145,16 @@
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Modules"
         }
+        ,
+        "Snapshot1000": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/Snapshot/1.0.0.0.zip",
+            "Version": "1.0.0.0",
+            "Name": "Tempus Snapshot Module 1.0.0.0",
+            "Description": "Module that adds support for exporting snapshots.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Modules"
+        }
     }
 }
 
