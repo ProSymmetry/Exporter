@@ -144,6 +144,15 @@
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Tempus Server Extensions"
         },
+        "Extensions 511": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Extensions/511.zip",
+            "Version": "5.1.1",
+            "Name": "Tempus 5.1.1 Server Extensions",
+            "Description": "Server extensions for Tempus Resource. This is to be deployed via the configuration tool.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus Server Extensions"
+        },
         "Sheets1000": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/Sheets/1.0.0.0.zip",
             "Version": "1.0.0.0",
