@@ -199,6 +199,15 @@
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Tempus Exporter Modules"
+        },
+        "SGClientExtensions1000": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/ExClient/1.0.0.0.zip",
+            "Version": "1.0.0.0",
+            "Name": "SG Client with Extensions 1.0.0.0",
+            "Description": "Adds support for extensions.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus Exporter Modules"
         }
     }
 }
