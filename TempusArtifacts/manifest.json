@@ -1,5 +1,14 @@
 {
     "Artifacts": {
+        "610": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/610.zip",
+            "Version": "6.1.0",
+            "Name": "Tempus 6.1.0 With Client Extensions",
+            "Description": "Tempus assemblies for use with Exporter. This build includes support for server extensions.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus SDK"
+        },
         "520Ex": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Versions/520Ex.zip",
             "Version": "5.2.0",
