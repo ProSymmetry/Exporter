@@ -209,6 +209,15 @@
             "Author": "ProSymmetry",
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Tempus Exporter Modules"
+        },
+        "TimesheetEvents1001": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/TimesheetEvents/1.0.0.1.zip",
+            "Version": "1.0.0.1",
+            "Name": "Tempus Timesheet Events Module 1.0.0.1",
+            "Description": "Module that adds support for exporting timesheets in a snapshot format. Each time a timesheet is modified, a snapshot is taken and exported. Timesheet resources can be filtered by a specified boolean custom field.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus Exporter Modules"
         }
         ,
         "Snapshot1000": {
