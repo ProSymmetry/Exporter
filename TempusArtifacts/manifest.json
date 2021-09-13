@@ -274,6 +274,15 @@
             "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
             "Category": "Tempus Exporter Modules"
         },
+        "Snapshot1005": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/Snapshot/1.0.0.5.zip",
+            "Version": "1.0.0.5",
+            "Name": "Tempus Snapshot Module 1.0.0.5",
+            "Description": "Module that adds support for exporting snapshots.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus Exporter Modules"
+        },
         "FlatEntities1000": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/FlatEntities/1.0.0.0.zip",
             "Version": "1.0.0.0",
