@@ -210,6 +210,16 @@
             "Category": "Tempus Exporter Modules"
         }
         ,
+        "ResourceSkills1002": {
+            "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/ResourceSkills/1.0.0.2.zip",
+            "Version": "1.0.0.2",
+            "Name": "Tempus Resource Skills Module 1.0.0.2",
+            "Description": "Module that adds support for exporting resource skills from Tempus.",
+            "Author": "ProSymmetry",
+            "ProjectSiteUrl": "https://github.com/ProSymmetry/Exporter",
+            "Category": "Tempus Exporter Modules"
+        }
+        ,
         "TimesheetEvents1000": {
             "Url": "https://github.com/ProSymmetry/Exporter/raw/master/TempusArtifacts/Modules/TimesheetEvents/1.0.0.0.zip",
             "Version": "1.0.0.0",
